@@ -9,8 +9,8 @@ transform = (chunk, enc, cb) !->
     @push chunk
     return cb()
 
-  file = chunk.clone()
   payload = dotenv.parse(chunk.contents.to-string())
+  file = chunk.clone()
   file.contents = new Buffer(JSON.stringify(payload))
 
   @push file
