@@ -1,4 +1,4 @@
-# gulp-dotenv
+# gulp-dotenv [![Build Status](https://travis-ci.org/pine613/gulp-dotenv.svg?branch=master)](https://travis-ci.org/pine613/gulp-dotenv)
 
 A .env file plugin for gulp:  compiling .env to JSON
 
