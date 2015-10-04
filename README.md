@@ -9,6 +9,7 @@ $ npm install gulp-dotenv --save
 ```
 
 ## Usage
+`.env` is a `\n` separated key-value configuration file like `KEY=VALUE`.
 
 ```js
 var dotenv = require('gulp-dotenv');
