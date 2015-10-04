@@ -1,0 +1,24 @@
+{
+  "name": "gulp-dotenv",
+  "version": "0.1.0",
+  "description": "A .env file plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Pine Mizune <pinemz@gmail.com> (https://github.com/pine613)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "livescript": "^1.4.0",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.6",
+    "sinon": "^1.17.1",
+    "sinon-chai": "^2.8.0"
+  }
+}
