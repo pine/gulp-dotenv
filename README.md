@@ -1,6 +1,6 @@
 # gulp-dotenv
 
-A .env file plugin for gulp
+A .env file plugin for gulp:  compiling .env to JSON
 
 ## Installation
 
