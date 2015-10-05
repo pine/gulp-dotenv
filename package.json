@@ -4,6 +4,7 @@
   "description": "A .env file plugin for gulp",
   "main": "index.js",
   "scripts": {
+    "postinstall": "lsc -c lib/dotenv.ls",
     "test": "gulp test"
   },
   "author": "Pine Mizune <pinemz@gmail.com> (https://github.com/pine613)",
