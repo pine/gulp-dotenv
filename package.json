@@ -1,6 +1,6 @@
 {
   "name": "gulp-dotenv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A .env file plugin for gulp",
   "main": "index.js",
   "scripts": {
