@@ -1,6 +1,6 @@
 {
   "name": "gulp-dotenv",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A .env file plugin for gulp",
   "files": [
     "lib",
@@ -26,8 +26,7 @@
     "email": "pinemz@gmail.com",
     "url": "https://github.com/pine613"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "license": "MIT",
   "dependencies": {
     "dotenv": "^1.2.0",
