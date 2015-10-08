@@ -2,12 +2,33 @@
   "name": "gulp-dotenv",
   "version": "0.1.1",
   "description": "A .env file plugin for gulp",
+  "files": [
+    "lib",
+    "index.js",
+    "LICENSE",
+    "*.md"
+  ],
   "main": "index.js",
   "scripts": {
     "postinstall": "lsc -c lib/dotenv.ls",
     "test": "gulp test"
   },
-  "author": "Pine Mizune <pinemz@gmail.com> (https://github.com/pine613)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pine613/gulp-dotenv"
+  },
+  "bugs": {
+    "url": "https://github.com/pine613/gulp-dotenv/issues"
+  },
+  "homepage": "https://github.com/pine613/gulp-dotenv",
+  "author": {
+    "name": "Pine Mizune",
+    "email": "pinemz@gmail.com",
+    "url": "https://github.com/pine613"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
   "license": "MIT",
   "dependencies": {
     "dotenv": "^1.2.0",
