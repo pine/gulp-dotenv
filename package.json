@@ -9,7 +9,7 @@
   ],
   "main": "build/dotenv.js",
   "scripts": {
-    "prepublish": "lsc -c lib/dotenv.ls",
+    "prepublish": "lsc -c -o build lib/dotenv.ls",
     "test": "gulp test"
   },
   "repository": {
