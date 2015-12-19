@@ -25,7 +25,10 @@
     "email": "pinemz@gmail.com",
     "url": "https://github.com/pine613"
   },
-  "keywords": [],
+  "keywords": [
+    "gulpplugin",
+    "dotenv"
+  ],
   "license": "MIT",
   "dependencies": {
     "dotenv": "^1.2.0",
