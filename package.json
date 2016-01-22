@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^1.2.0",
+    "dotenv": "^2.0.0",
     "livescript": "^1.4.0",
     "through2": "^2.0.0"
   },
