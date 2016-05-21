@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pine613/gulp-dotenv"
+    "url": "https://github.com/pine/gulp-dotenv"
   },
   "bugs": {
-    "url": "https://github.com/pine613/gulp-dotenv/issues"
+    "url": "https://github.com/pine/gulp-dotenv/issues"
   },
-  "homepage": "https://github.com/pine613/gulp-dotenv",
+  "homepage": "https://github.com/pine/gulp-dotenv",
   "author": {
     "name": "Pine Mizune",
     "email": "pinemz@gmail.com",
-    "url": "https://github.com/pine613"
+    "url": "https://github.com/pine"
   },
   "keywords": [
     "gulpplugin",

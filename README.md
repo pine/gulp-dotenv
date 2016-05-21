@@ -1,9 +1,8 @@
 # gulp-dotenv
-
 [![npm version](https://img.shields.io/npm/v/gulp-dotenv.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotenv)
-[![Build Status](https://img.shields.io/travis/pine613/gulp-dotenv/master.svg?style=flat-square)](https://travis-ci.org/pine613/gulp-dotenv)
-[![Dependency Status](https://img.shields.io/david/pine613/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine613/gulp-dotenv)
-[![devDependency Status](https://img.shields.io/david/dev/pine613/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine613/gulp-dotenv#info=devDependencies)
+[![Build Status](https://img.shields.io/travis/pine/gulp-dotenv/master.svg?style=flat-square)](https://travis-ci.org/pine/gulp-dotenv)
+[![Dependency Status](https://img.shields.io/david/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv)
+[![devDependency Status](https://img.shields.io/david/dev/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv#info=devDependencies)
 
 A .env file plugin for gulp:  compiling .env to JSON
 
@@ -29,25 +28,4 @@ gulp.task('dotenv', function () {
 ```
 
 ## License
-
-The MIT License (MIT)
-
-Copyright (c) 2015-2016 Pine Mizune
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+MIT License
