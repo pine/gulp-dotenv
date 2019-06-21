@@ -12,7 +12,7 @@ function transform(chunk, enc, cb) {
 
   const payload = dotenv.parse(chunk.contents.toString())
   const file = chunk.clone()
-  file.contents = new Buffer(JSON.stringify(payload))
+  file.contents = Buffer.from(JSON.stringify(payload))
 
   this.push(file)
   cb()
