@@ -1,8 +1,8 @@
 # gulp-dotenv
-[![npm version](https://img.shields.io/npm/v/gulp-dotenv.svg?style=flat-square)](https://www.npmjs.com/package/gulp-dotenv)
-[![Build Status](https://img.shields.io/travis/pine/gulp-dotenv/master.svg?style=flat-square)](https://travis-ci.org/pine/gulp-dotenv)
-[![Dependency Status](https://img.shields.io/david/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv)
-[![devDependency Status](https://img.shields.io/david/dev/pine/gulp-dotenv.svg?style=flat-square)](https://david-dm.org/pine/gulp-dotenv#info=devDependencies)
+[![npm version](https://img.shields.io/npm/v/gulp-dotenv.svg)](https://www.npmjs.com/package/gulp-dotenv)
+[![Build Status](https://travis-ci.org/pine/gulp-dotenv.svg?branch=master)](https://travis-ci.org/pine/gulp-dotenv)
+[![Dependency Status](https://img.shields.io/david/pine/gulp-dotenv.svg)](https://david-dm.org/pine/gulp-dotenv)
+[![devDependency Status](https://img.shields.io/david/dev/pine/gulp-dotenv.svg)](https://david-dm.org/pine/gulp-dotenv#info=devDependencies)
 
 A .env file plugin for gulp:  compiling .env to JSON
 
