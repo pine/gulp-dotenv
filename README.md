@@ -28,4 +28,4 @@ gulp.task('dotenv', function () {
 ```
 
 ## License
-MIT License
+MIT &copy; Pine Mizune
